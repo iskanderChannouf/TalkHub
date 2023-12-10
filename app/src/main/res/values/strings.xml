@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TalkHub</string>
+    <string name="logo">TalkHub</string>
+    <string name="email">Email</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="password">Password</string>
+    <string name="please">Please login to your account.</string>
+    <string name="forgot">Forgot?</string>
+    <string name="hey">Hey</string>
+    <string name="dont">Don\'t have an account ?</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="login">LogIn</string>
+    <string name="signup">Sign Now</string>
+    <string name="button">Button</string>
+    <string name="please_enter_to_your_info">Please enter to your info.</string>
+    <string name="email_address">Email Address</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirme_password">Confirme password</string>
+    <string name="send">send\n</string>
+</resources>
